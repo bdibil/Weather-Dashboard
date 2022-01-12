@@ -1,3 +1,7 @@
-.greenBackground {
-    background-color: rgb(70, 180, 79);
+.title-bar{
+    background-color: rgb(70, 145, 180);
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
 }
+
